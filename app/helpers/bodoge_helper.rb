@@ -1,0 +1,2 @@
+module BodogeHelper
+end
